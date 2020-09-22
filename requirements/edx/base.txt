@@ -254,3 +254,4 @@ google-cloud-storage==1.26.0
 
 # ratelimiter
 -e git+https://github.com/Edraak/django-ratelimit-backend.git@fix/UnicodeEncodeError#egg=django-ratelimit-backend==fix/UnicodeEncodeError
+
